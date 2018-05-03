@@ -1,0 +1,11 @@
+C:\Users\shuma_000\Source\Repos\BingoApp\BingoApp\bin\Debug\BingoApp.exe.config
+C:\Users\shuma_000\Source\Repos\BingoApp\BingoApp\bin\Debug\BingoApp.exe
+C:\Users\shuma_000\Source\Repos\BingoApp\BingoApp\bin\Debug\BingoApp.pdb
+C:\Users\shuma_000\Source\Repos\BingoApp\BingoApp\obj\Debug\BingoApp.csproj.CoreCompileInputs.cache
+C:\Users\shuma_000\Source\Repos\BingoApp\BingoApp\obj\Debug\BingoApp.exe
+C:\Users\shuma_000\Source\Repos\BingoApp\BingoApp\obj\Debug\BingoApp.pdb
+C:\Users\shuma_000\Source\Repos\BingoApp\BingoApp\obj\Debug\BingoApp.csprojResolveAssemblyReference.cache
+C:\Users\shuma_000\Source\Repos\BingoApp\BingoApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\shuma_000\Source\Repos\BingoApp\BingoApp\bin\Debug\System.ValueTuple.dll
+C:\Users\shuma_000\Source\Repos\BingoApp\BingoApp\bin\Debug\TechTalk.SpecFlow.dll
+C:\Users\shuma_000\Source\Repos\BingoApp\BingoApp\bin\Debug\Newtonsoft.Json.xml
