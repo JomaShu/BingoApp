@@ -27,8 +27,7 @@ namespace BingoAppTest
         {
             number = BingoApp.Services.Commons.RandomListGeneration.GetRandomListInRange(range.LowestBound, range.HighestBound, 1);
             Console.WriteLine(number);
-        }
-        
+        }  
         [When(@"I call all numbers")]
         public void WhenICallANumberTimes()
         {
